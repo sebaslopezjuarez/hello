@@ -12,6 +12,7 @@
  int main(int argc, char **argv) {
 
     printf("Sebastian Lopez Juarez\n");
+    printf("undecided\n");
 
     return 0;
 }
